@@ -1,0 +1,1 @@
+# atom-solidity-linter
