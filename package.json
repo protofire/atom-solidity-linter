@@ -1,0 +1,40 @@
+{
+  "name": "atom-solidity-linter",
+  "version": "1.0.0",
+  "description": "Integration of Solhint linter with Atom editor",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokenhouse/atom-solidity-linter.git"
+  },
+  "keywords": [
+    "solidity", "solhint", "ethereum", "smart-contract"
+  ],
+  "author": "Ilya Drabenia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tokenhouse/atom-solidity-linter/issues"
+  },
+  "homepage": "https://github.com/tokenhouse/atom-solidity-linter#readme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "2.0.0": "provideLinter"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-linter": "^10.0.0",
+    "atom-package-deps": "^4.6.0",
+    "solhint": "^1.1.5"
+  },
+  "package-deps": [
+    "linter:2.0.0"
+  ]
+}
