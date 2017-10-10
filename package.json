@@ -1,6 +1,6 @@
 {
   "name": "atom-solidity-linter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Integration of Solhint linter with Atom editor",
   "main": "./lib/index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/tokenhouse/atom-solidity-linter.git"
   },
   "keywords": [
-    "solidity", "solhint", "ethereum", "smart-contract"
+    "solidity",
+    "solhint",
+    "ethereum",
+    "smart-contract"
   ],
   "author": "Ilya Drabenia",
   "license": "MIT",
