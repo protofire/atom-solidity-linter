@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tokenhouse/atom-solidity-linter.git"
+    "url": "git+https://github.com/protofire/atom-solidity-linter.git"
   },
   "keywords": [
     "solidity",
@@ -19,9 +19,9 @@
   "author": "Ilya Drabenia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tokenhouse/atom-solidity-linter/issues"
+    "url": "https://github.com/protofire/atom-solidity-linter/issues"
   },
-  "homepage": "https://github.com/tokenhouse/atom-solidity-linter#readme",
+  "homepage": "https://github.com/protofire/atom-solidity-linter#readme",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
