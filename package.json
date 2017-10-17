@@ -1,6 +1,6 @@
 {
   "name": "atom-solidity-linter",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Integration of Solhint linter with Atom editor",
   "main": "./lib/index.js",
   "scripts": {
