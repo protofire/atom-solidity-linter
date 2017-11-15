@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/protofire/atom-solidity-linter.git"
+    "url": "https://github.com/protofire/atom-solidity-linter.git"
   },
   "keywords": [
     "solidity",
